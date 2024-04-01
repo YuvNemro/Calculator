@@ -11,6 +11,7 @@ This is a simple calculator web application built with React.
 3. Open a terminal or command prompt and navigate to the extracted folder.
 
 4. Install dependencies using npm:
+   
 	run "npm install"
 
 	run "npm install mathjs"
