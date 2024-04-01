@@ -1,0 +1,37 @@
+.nav-button-logout,
+.nav-button{
+  background-color: rgba(9, 94, 100, 0.75);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.nav{
+  display: flex;
+  justify-content: space-between ;
+}
+.nav-button-logout:hover,
+.nav-button:focus,
+.nav-button:hover {
+  background-color: #051350;
+}
+
+.username {
+  font-size: 25px;
+  margin-right: 3rem;
+  color: black;
+}
+
+.nav-button-logout{
+  margin-right: 2rem;
+}
+
+.nav-right {
+  display: flex;
+  align-items: center;
+}
