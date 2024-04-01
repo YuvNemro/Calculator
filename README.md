@@ -12,7 +12,9 @@ This is a simple calculator web application built with React.
 
 4. Install dependencies using npm:
 	run "npm install"
+
 	run "npm install mathjs"
+
 	if a probelm occur try running "npm install react-scripts --save"
 	
 
